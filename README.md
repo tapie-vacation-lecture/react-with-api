@@ -2,6 +2,7 @@
 
 어떤 API던 상관없습니다.   
 axios 라이브러리와 API를 사용해서 간단한 프로젝트를 제작하세요.
+조건: axios, useState, SCSS 사용하기
 
 ## 프로젝트 예시: AI 채팅
 Openai API (gpt4-mini)를 사용해서 만든 간단한 AI 대화 웹사이트  
